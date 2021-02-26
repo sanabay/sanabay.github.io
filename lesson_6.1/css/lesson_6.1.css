@@ -1,0 +1,58 @@
+* {
+	box-sizing: border-box;
+}
+
+.box {
+	position: fixed;
+	top:0;
+	left: 0;
+	height: 50px;
+	width: 100%;
+	background-color: black;
+	text-transform: uppercase;
+	font-size: 12pt;
+	color: #fff;
+}
+
+.snow {
+	margin-top: 5px;
+	margin-left: 5%;
+	font-size: 24pt;
+	font-style: italic;
+}
+
+.home {
+	position: fixed;
+	top: 15px;
+	margin-left: 50%;
+}
+
+.work {
+	position: fixed;
+	top: 15px;
+	margin-left: 58%;
+}
+
+.about {
+	position: fixed;
+	top: 15px;
+	margin-left: 65%;
+}
+.blog {
+	position: fixed;
+	top: 15px;
+	margin-left: 73%;
+}
+.contact {
+	position: fixed;
+	top: 15px;
+	margin-left: 80%;
+}
+.buy-theme {
+	position: fixed;
+	top: 15px;
+	margin-left: 88%;
+}
+p {
+margin-top: 80px;
+}
