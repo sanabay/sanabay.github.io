@@ -1,0 +1,150 @@
+@fz: 10px;
+html {
+  font-size: @fz;
+}
+@font-family: 'museo_reg', sans-serif;
+body {
+  font-family: @font-family;
+}
+@padding: 4rem 0 8rem;
+section {
+  padding: @padding;
+}
+
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+}
+button:focus,
+input:focus,
+a:focus,
+textarea:focus {
+  outline: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+.feedback-forms-all(@padding: 6rem 0 9rem 0) {
+  padding: @padding;
+}
+@color:#1b1b1b;
+@margin-bottom: 6rem;
+.section-title(@fz:3rem) {
+  margin-bottom: @margin-bottom;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: @font-family;
+  font-size: @fz;
+  color: @color;
+}
+@display: inline-block;
+@width: 1.5rem;
+@height: 0.1rem;
+@background-color:#5ba2a9;
+
+.section-title(@margin-bottom:15px) .upper-icon-wrapper(@margin-bottom:15px)::before  {
+  content: '';
+  display:@display;
+  width: @width;
+  height: @height;
+  margin-bottom: @margin-bottom;
+  background-color: @background-color;
+}
+.section-title(@margin-bottom:15px) .upper-icon-wrapper(@margin-bottom:15px)::after {
+  content: '';
+  display:@display;
+  width: @width;
+  height: @height;
+  margin-bottom: @margin-bottom;
+  background-color: @background-color;
+}
+.section-title .upper-icon-wrapper .upper-icon (@margin-bottom:1.5rem,@width:2rem,@height:2rem) {
+  margin-bottom: @margin-bottom;
+  width: @width;
+  height: @height;
+}
+.feedback-form-statement (@padding:6rem 0 0)  {
+  padding: @padding;
+}
+.feedback-form-title {
+  margin-bottom: @margin-bottom;
+  text-align: center;
+}
+.feedback-form-title h3 (@margin-bottom:1.2rem, @font-size:2.5rem) {
+  margin-bottom: @margin-bottom;
+  font-family:@font-family;
+  font-size: @font-size;
+  color: @color;
+}
+.feedback-form-title p(@font-size:1.8rem) {
+  font-size: @font-size;
+}
+@border:2px solid #d0d0d0;;
+.feedback-form-input (@width:100%,@padding: 1.4rem 4.5rem 1.4rem 1.4rem,@color:#454545) {
+  position: relative;
+  width: @width;
+  padding: @padding;
+  border: @border;
+  opacity: .5;
+  color: @color;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transitiosn: 0.3s;
+  transition: 0.3s;
+}
+.feedback-form-input(@color:#515151, @font-size1.5rem)::-webkit-input-placeholder {
+  color: @color;
+  font-size:@font-size;
+}
+.feedback-form-input(@color:#515151, @font-size1.5rem)::-moz-placeholder {
+  color: @color;
+  font-size:@font-size;
+}
+.feedback-form-input(@color:#515151, @font-size1.5rem):-moz-placeholder {
+  color: @color;
+  font-size:@font-size;
+}
+.feedback-form-input(@color:#515151, @font-size1.5rem):-ms-input-placeholder {
+ color: @color;
+  font-size:@font-size;
+}
+.feedback-form-input:hover,
+.feedback-form-input:focus {
+  opacity: 1;
+}
+.feedback-form .input-user {
+  background: url(../img/shared/feedback/person-icon.svg) right 1.5rem center no-repeat;
+  background-size: 2rem;
+}
+.feedback-form .input-phone {
+  background: url(../img/shared/feedback/telephone-icon.svg) right 1.5rem center no-repeat;
+  background-size: 2rem;
+}
+.feedback-form-btn (@padding:1.2rem 0,@color:#ffffff,@font-size:1.8rem )  {
+  min-width: 100%;
+  padding: @padding;
+  background-color: @background-color;
+  text-transform: uppercase;
+  border: none;
+  color: @color;
+  font-size: @font-size;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+.feedback-form-btn(@background-color#488389):hover {
+  background-color: @background-color;
+  border-radius: 10px;
+}
+.feedback-form .title-feedback {
+  display: block;
+}
+.feedback-form .description-feedback {
+  display: block;
+}
