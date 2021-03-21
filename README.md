@@ -1,7 +1,7 @@
 # Санабай Нургельды
 Мои домашки
 
-[Урок 4](sanabay.github.io/lesson_4/lesson_4.html/ "Описание") - свёрстанная только на html книжка
+[Урок 4](sanabay.github.io/lesson_4/ "Описание") - свёрстанная только на html книжка
 
 [Урок 5](sanabay.github.io/lesson_5/ "Описание") - свёрстанная на html и css книжка
 
@@ -22,3 +22,5 @@
 [Урок 13](sanabay.github.io/lesson_13/ "Описание") - работа с Perfect Pixel
 
 [Практикум 1](sanabay.github.io/praktika_1/index.html/ "Описание") - Шапка сайта
+
+[Урок 14](sanabay.github.io/lesson_14/ "Описание") - работа с шрифтами
