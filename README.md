@@ -22,4 +22,4 @@
 [Урок 13](sanabay.github.io/lesson_13/ "Описание") - работа с Perfect Pixel
 
 
-[Практикум 1](sanabay.github.io/practica_1/ "Описание") - Шапка сайта
+[Практикум 1](sanabay.github.io/praktika_1/ "Описание") - Шапка сайта
