@@ -18,3 +18,5 @@
 [Урок 11](sanabay.github.io/lesson_11/ "Описание") - snippets
 
 [Урок 12](sanabay.github.io/lesson_12/ "Описание") - работа с репизаторием на Github
+
+[Урок 13](sanabay.github.io/lesson_13/ "Описание") - работа с Perfect Pixel
