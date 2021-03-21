@@ -20,3 +20,6 @@
 [Урок 12](sanabay.github.io/lesson_12/ "Описание") - работа с репизаторием на Github
 
 [Урок 13](sanabay.github.io/lesson_13/ "Описание") - работа с Perfect Pixel
+
+
+[Практикум 1](sanabay.github.io/practica_1/ "Описание") - Шапка сайта
