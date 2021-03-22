@@ -21,8 +21,8 @@
 
 [Урок 13](sanabay.github.io/lesson_13/ "Описание") - работа с Perfect Pixel
 
-[Практикум 1](sanabay.github.io/praktika_1/index.html/ "Описание") - Шапка сайта
+[Практикум 1](sanabay.github.io/praktika_1/ "Описание") - Шапка сайта
 
 [Урок 14](sanabay.github.io/lesson_14/ "Описание") - работа с шрифтами
 
-[Практикум 2](sanabay.github.io/praktika_2/index.html/ "Описание") - Первая страница сайта
+[Практикум 2](sanabay.github.io/praktika_2/ "Описание") - Первая страница сайта
