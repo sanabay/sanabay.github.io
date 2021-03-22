@@ -24,3 +24,5 @@
 [Практикум 1](sanabay.github.io/praktika_1/index.html/ "Описание") - Шапка сайта
 
 [Урок 14](sanabay.github.io/lesson_14/ "Описание") - работа с шрифтами
+
+[Практикум 2](sanabay.github.io/praktika_2/index.html/ "Описание") - Первая страница сайта
