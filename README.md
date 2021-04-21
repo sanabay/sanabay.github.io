@@ -1,7 +1,7 @@
 # Санабай Нургельды
 Мои домашки
 
-[Урок 4](sanabay.github.io/lesson_4/ ) - свёрстанная только на html книжка
+[Урок 4](sanabay.github.io/lesson_4/"Описание") - свёрстанная только на html книжка
 
 [Урок 5](sanabay.github.io/lesson_5/ "Описание") - свёрстанная на html и css книжка
 
